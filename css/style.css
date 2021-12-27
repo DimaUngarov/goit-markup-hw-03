@@ -237,7 +237,7 @@ img {
 /*----------Footer----------*/
 .footer {
   background: #2f303a;
-  padding: 60px;
+  padding: 60px 0;
 }
 .footer-container {
   display: flex;
@@ -286,7 +286,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 .filter-item:not(:last-child) {
   margin-right: 8px;
